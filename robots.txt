@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.baoyue0597.cn/sitemap.xml
